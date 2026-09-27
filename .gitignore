@@ -47,3 +47,4 @@ AGENTS.md
 
 # superpowers workflow scratch (specs/plans in docs/ are still tracked)
 .superpowers/
+.env*.local
